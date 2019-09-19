@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Aula 3 do while\bin\Debug\netcoreapp2.2\Aula 3 do while.deps.json
+C:\Users\fic\Desktop\Aula 3 do while\bin\Debug\netcoreapp2.2\Aula 3 do while.runtimeconfig.json
+C:\Users\fic\Desktop\Aula 3 do while\bin\Debug\netcoreapp2.2\Aula 3 do while.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Aula 3 do while\bin\Debug\netcoreapp2.2\Aula 3 do while.dll
+C:\Users\fic\Desktop\Aula 3 do while\bin\Debug\netcoreapp2.2\Aula 3 do while.pdb
+C:\Users\fic\Desktop\Aula 3 do while\obj\Debug\netcoreapp2.2\Aula 3 do while.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Aula 3 do while\obj\Debug\netcoreapp2.2\Aula 3 do while.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Aula 3 do while\obj\Debug\netcoreapp2.2\Aula 3 do while.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Aula 3 do while\obj\Debug\netcoreapp2.2\Aula 3 do while.AssemblyInfo.cs
+C:\Users\fic\Desktop\Aula 3 do while\obj\Debug\netcoreapp2.2\Aula 3 do while.dll
+C:\Users\fic\Desktop\Aula 3 do while\obj\Debug\netcoreapp2.2\Aula 3 do while.pdb
